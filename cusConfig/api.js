@@ -3,7 +3,7 @@
  * @param url
  * @returns {Promise<void>}
  */
-export const httpGet = async(url) => {
+export const httpGet = async(url, ) => {
     return await httpRequest(url, { method: 'GET' })
 }
 
