@@ -1,0 +1,44 @@
+/**
+ * Gloock
+ */
+@font-face {
+  font-family: 'Gloock';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url('Gloock-Regular.woff2') format('woff2'),
+       url('Gloock-Regular.woff') format('woff'),
+       url('Gloock-Regular.ttf') format('truetype');
+}
+/**
+ * Poppins
+ */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url('Poppins-Regular.woff2') format('woff2'),
+       url('Poppins-Regular.woff') format('woff'),
+       url('Poppins-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('Poppins-SemiBold.woff2') format('woff2'),
+       url('Poppins-SemiBold.woff') format('woff'),
+       url('Poppins-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url('Poppins-Bold.woff2') format('woff2'),
+       url('Poppins-Bold.woff') format('woff'),
+       url('Poppins-Bold.ttf') format('truetype');
+}
